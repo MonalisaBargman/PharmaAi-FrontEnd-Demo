@@ -1,0 +1,5 @@
+{
+  "name": "AI Pharmacist",
+  "description": "A safety-first medical information gateway helping users access trusted drug and health information via a conversational interface. Features anonymous consulting, strict safety protocols, and medical reference search.",
+  "requestFramePermissions": []
+}
